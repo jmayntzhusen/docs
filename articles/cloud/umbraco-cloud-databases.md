@@ -61,7 +61,7 @@ When cloning down your project to work locally you might want to have a look in 
 
 In Visual Studio this is done through the Server Explorer. Add a new connection to a SQL server database file. Umbraco's database file can be found in `App_Data`:
 
-![Connecting to Umbraco.mdf in Visual Studio](../images/connect-via-vsstudio.gif)
+![Connecting to Umbraco.mdf in Visual Studio](../../images/connect-via-vsstudio.gif)
 
 If this is your first time connecting to a local database this way, you might have to choose a data source when clicking `Add Connection`. Select `Microsoft SQL Server Database File` and hit OK.
 
@@ -93,7 +93,7 @@ Make sure to change the following:
 - Database name
 - Backup directory (if needed)
 
-[!include[Db Restore](snippets/dbRestore.md)]
+[!include[Db Restore](../snippets/dbRestore.md)]
 
 ## Moving on
 Now that you've connected you can work with the databases on Umbraco Cloud, like you could on any other host. Just remember to let Umbraco Cloud do the work when it comes to the Umbraco related tables (`Umbraco*` and `CMS*` tables).
