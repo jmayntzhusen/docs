@@ -6,6 +6,8 @@ choco install docfx -y
 
 git clone -q https://github.com/jmayntzhusen/Umbraco-CMS.git src
 
+dir .\src
+
 docfx metadata
 
 docfx build docfx.json
