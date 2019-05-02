@@ -1,0 +1,10 @@
+- name: Umbraco CMS
+  href: articles/
+  homepage: articles/contentservice.md
+- name: Api Documentation
+  href: api/
+  homepage: api/
+- name: Umbraco Cloud
+  href: articles/cloud/
+  homepage: articles/cloud/umbraco-cloud.md
+
