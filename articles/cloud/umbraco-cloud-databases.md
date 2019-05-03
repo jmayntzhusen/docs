@@ -3,7 +3,7 @@ versionFrom: 7.0.0
 uid: cloud-databases 
 ---
 
-# Working with databases.
+# Working with databases
 
 >[!NOTE]
 >The databases on your Umbraco Cloud environments are specific to their environment. This means that no matter what you have configured in the `connectionstring` in your `web.config` file, we overwrite the connectionstring to use the SQL Azure Server we provide.
