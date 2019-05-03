@@ -3,7 +3,7 @@
   homepage: articles/contentservice.md
 - name: Api Documentation
   href: api/
-  homepage: api/
+  homepage: api/Umbraco.Core.yml
 - name: Umbraco Cloud
   href: articles/cloud/
   homepage: articles/cloud/umbraco-cloud.md

@@ -2,11 +2,9 @@
 
 # Comment out these commands if you already have Chocolatey and DocFX installed
 # Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
-choco install docfx -y
+# choco install docfx -y
 
 git clone -q https://github.com/jmayntzhusen/Umbraco-CMS.git src
-
-dir .\src
 
 docfx metadata
 
