@@ -51,6 +51,15 @@
         ]
       }
     ],
+    "globalMetadata": {
+      "_appTitle": "Umbraco Documentation",
+      "_enableNewTab": "true",
+      "_gitContribute": {
+        "repo": "https://github.com/jmayntzhusen/docs",
+        "branch": "master",
+        "apiSpecFolder": "apidoc"
+      }
+    },
     "dest": "_site",
     "globalMetadataFiles": [],
     "fileMetadataFiles": [],
