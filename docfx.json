@@ -54,6 +54,7 @@
     "globalMetadata": {
       "_appTitle": "Umbraco Documentation",
       "_enableNewTab": "true",
+      "_enableSearch": "true",
       "_gitContribute": {
         "repo": "https://github.com/jmayntzhusen/docs",
         "branch": "master",
