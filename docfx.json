@@ -51,6 +51,7 @@
         ]
       }
     ],
+    "postProcessors": [ "ExtractSearchIndex" ],
     "globalMetadata": {
       "_appTitle": "Umbraco Documentation",
       "_enableNewTab": "true",
