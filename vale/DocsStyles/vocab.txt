@@ -47,3 +47,5 @@ autofac
 ioc
 splitview
 bodytext
+mdf
+gif
